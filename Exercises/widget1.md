@@ -95,7 +95,7 @@ ___
     
 21)	Edit the **Manifest.json** file.  The name should match the name of your widget folder.  You can change the **author** and **description**.  Also, change the properties settings as seen below.
 
-    ![](img/ex1/widg1_pc15.png)
+    ![](img/ex1/widg1_pc16.png)
     
 22)	Finally, to deploy this widget for use with an app place the entire folder in **\\\client\stemapp\widgets**
 
