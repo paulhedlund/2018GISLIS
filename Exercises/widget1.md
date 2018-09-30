@@ -7,7 +7,7 @@ ___
 
     ![](img/ex1/widg1_pc1.png)
 
-3)	Make sure you a have a preferred text editor installed on your machine.  There are many to choose from.  If you are unsure which to use start out use [NotePad ++](https://notepad-plus-plus.org/) for Windows, or [Atom](https://atom.io/) for Mac.
+3)	Make sure you a have a preferred text editor installed on your machine.  There are many to choose from.  If you are unsure which to use start out use [NotePad ++](https://notepad-plus-plus.org/) for Windows.
 
 4)	The folder structure should look like this.  Let’s open up the **Widget.js** file.
 
