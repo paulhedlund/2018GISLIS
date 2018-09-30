@@ -6,7 +6,7 @@ ___
 2) Add AGO map to the sample config.  This is done by navigating to **\\\client\stemapp\sample-configs**. Open the **config-demo.json** file and go to **map -> itemId** and change the Web Map ID to 
 
     ```
-    282b47baee24412c9e69537f699dcba2
+    daeb9571f666417ea43e6981788e41d3
     ```
 
     ![](img/ex2/widg2_pic30.png)
