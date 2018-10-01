@@ -135,4 +135,8 @@ ___
 
 	![](img/ex3/widg3_pc5.png)
 	
-11)	That’s it!  If you have some time remaining play with the widget by modifying the chart colors and styling.  Also, look into the ESRI libraries contained in the **widget.js** file.  Guides on this can be found on the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/3/jsapi/) website.
+11) Upon completion test zooming to a county.  Try both **Population** and **Smartphone** selections.  Your widget panel should look something like what is seen here.
+
+	![](img/ex3/widg3_pc6.png)
+	
+12)	That’s it!  If you have some time remaining play with the widget by modifying the chart colors and styling.  Also, look into the ESRI libraries contained in the **widget.js** file.  Guides on this can be found on the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/3/jsapi/) website.
