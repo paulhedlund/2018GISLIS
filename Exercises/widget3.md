@@ -5,7 +5,7 @@ ___
 
 2) Add the chart control, new labels and styling to the **widget.html** file.
 
-    ![](img/ex2/widg3_pc1.png)
+    ![](img/ex3/widg3_pc1.png)
 
     ```
 	<span>Chart</span>
@@ -42,7 +42,7 @@ ___
 	,Chart,Pie,Highlight,MoveSlice,Legend,ClaroTheme
     ```
 	
-	![](img/ex2/widg3_pc2.png)
+	![](img/ex3/widg3_pc2.png)
     
 5) The next steps will all involve editing the **widget.js** javascript file.  Start by adding these two global variables near the top of the file.
 
@@ -51,7 +51,7 @@ ___
 	_legendCounty:null,
     ```
 	
-	![](img/ex2/widg3_pc3.png)
+	![](img/ex3/widg3_pc3.png)
 	
 6) At the end of the file add a new function for adding population and smart phone options to the stat type dropdown control.
 
@@ -129,14 +129,14 @@ ___
 	
 9) Add the **_GetStatTypes** and **_CreateChart** function inside the **startup** function as seen here.  Add a **this.** before the function.
 
-	![](img/ex2/widg3_pc4.png)
+	![](img/ex3/widg3_pc4.png)
 
 10) Add the **_GetStatTypes** and **_CreateChart** function inside the **startup** function as seen here.  Add a **this.** before the function.
 
-	![](img/ex2/widg3_pc4.png)
+	![](img/ex3/widg3_pc4.png)
 	
 11) Finally add the  **_ProcessChart** at the beginning of the **_ZoomCounty** function.  Add a **this.** before the function.
 
-	![](img/ex2/widg3_pc5.png)
+	![](img/ex3/widg3_pc5.png)
 	
 12)	That’s it!  If you have some time remaining play widget by modifying the chart colors and stylineing.  Also, look into the ESRI libraries contained in the **widget.js** file.  Guides on this can be found on the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/3/jsapi/) website.
