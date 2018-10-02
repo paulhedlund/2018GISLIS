@@ -41,7 +41,7 @@ ___
     </div>
     ```
     
-6) Now let’s spend some time adding code to the **widget.js** file.  This file will contain the most logic of any file for the widget.  First un-comment the **postCreate** and **startup** event functions.  Remove all other commented functions including **onOpen**, **onClose**, etc.  These events will not be used for this widget.
+6) Now let’s spend some time adding code to the **widget.js** file.  This file will contain the most logic of any file for the widget.  First un-comment the **postCreate** and **startup** event functions.  Remove all code inside these two functions except for **this.inherited(arguments);**. Remove all other commented functions including **onOpen**, **onClose**, etc.  These events will not be used for this widget.
 
     ![](img/ex2/widg2_pc4.png)
     
