@@ -15,7 +15,7 @@ ___
 
     ![](img/ex2/widg2_pc2.png)
 
-4) Edit the **Manifest.json** file to not include some properties.  Have the parameters similar to what is seen below.
+4) Edit the **Manifest.json** file to not include some properties.  Have the parameters match what is seen below except use your own name.
 
     ![](img/ex2/widg2_pc40.png)
     
