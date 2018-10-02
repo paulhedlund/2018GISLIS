@@ -25,7 +25,7 @@ ___
 	</div>
     ```
 
-3) Add the dojo charting libraries to the **widget.js** file.
+3) The next couple of steps will involve editing the **widget.js** file.  Start by adding the dojo charting libraries.
 
     ```
 	'dojox/charting/Chart', 
