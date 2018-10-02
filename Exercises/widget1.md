@@ -106,3 +106,5 @@ ___
     ![](img/ex1/widg1_pc12.png)
     
 25)	For more information, check out Esri’s [Create a custom in-panel widge](https://developers.arcgis.com/web-appbuilder/sample-code/create-custom-in-panel-widget.htm) tutorial.
+
+26)	Now try the Custom Widget #2 exercise.
