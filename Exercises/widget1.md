@@ -73,7 +73,7 @@ ___
     
 17)	Next let’s make the text configurable.  **\\\client\stemapp\widgets\samplewidgets\TerribleWidget\config.json**
 
-18)	Add the following text to make to tool configurable.
+18)	Add the following text to make the tool configurable.
 
     ```
     {
