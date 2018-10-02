@@ -23,21 +23,21 @@ ___
 
     ```
     <div>
-    <span class="sectionTitles">Minnesota County List</span>
-    <div id="filterBlock">
-      <table width="100%">
-        <tr>
-    <td class=tableAlignLeft><select dojotype="dijit/form/FilteringSelect" data-dojo-props="id:'MNcountylist', autoComplete:false, value:'', placeHolder: 'Select county ...'" required="false" />
-    </tr>
-          </table>
-        </div>
-        <div id="buttonBlock" style=”margin-top:10px;”>
-          <table width=”100%”>
-            <tr>
-              <td style="text-align:center;"><div class="jimu-btn" data-dojo-attach-point="btnVote" data-dojo-attach-event="click:_ZoomCounty">Zoom to County</div></td>
-            </tr>
-          </table>
-        </div>
+	<span class="sectionTitles">Minnesota County List</span>
+	<div id="filterBlock">
+		<table width="100%">
+			<tr>
+				<td class=tableAlignLeft><select dojotype="dijit/form/FilteringSelect" data-dojo-props="id:'MNcountylist', autoComplete:false, value:'', placeHolder: 'Select county ...'" required="false" />
+			</tr>
+		</table>
+	</div>
+	<div id="buttonBlock" style="margin-top:10px;">
+		<table width="100%">
+			<tr>
+				<td style="text-align:center;padding-bottom: 20px;"><div class="jimu-btn" data-dojo-attach-point="btnZoom" data-dojo-attach-event="click:_ZoomCounty">Zoom to County</div></td>
+			</tr>
+		</table>
+	</div>
     </div>
     ```
     
