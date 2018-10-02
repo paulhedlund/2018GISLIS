@@ -87,8 +87,6 @@ ___
     ```javascript
       startup: function() {
        this.inherited(arguments);
-       this.mapIdNode.innerHTML = 'map id:' + this.map.id;
-       console.log('startup');
       },
     ```
     
