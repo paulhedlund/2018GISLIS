@@ -53,7 +53,7 @@ ___
 	
 	![](img/ex3/widg3_pc3.png)
 	
-6) At the end of the file add a new function for adding population and smart phone options to the stat type dropdown control.
+6) At the end of the file add a new function for adding population and smart phone options to the stat type dropdown control.  Make sure there is a comma between functions to avoid errors.
 
     ```
 	_GetStatTypes: function () {
