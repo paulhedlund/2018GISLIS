@@ -190,28 +190,30 @@ ___
     ```
     
      ![](img/ex2/widg2_pc7.png)
-         
-14) Now let’s test the display of the widget. Start the test URL again at **“http://[your host name:3344]/webappviewer/?config=sample-configs/config-demo.json”**.  Find the County Widget and test it.
+
+14) Make sure all functions have a comma at the end of them.  The one exception is the last function which in this case is **_ZoomCounty**.
+
+15) Now let’s test the display of the widget. Start the test URL again at **“http://[your host name:3344]/webappviewer/?config=sample-configs/config-demo.json”**.  Find the County Widget and test it.
   
      ![](img/ex2/widg2_pc8.png)
           
-15) Did you get this?  Use the developer tools via F12 to debug the error.  A missing comma or semicolon can cause the error.
+16) Did you get this?  Use the developer tools via F12 to debug the error.  A missing comma or semicolon can cause the error.
   
      ![](img/ex2/widg2_pc9.png)
           
-16) The county list dropdown should contain a list of all Minnesota counties in alphabetical order.
+17) The county list dropdown should contain a list of all Minnesota counties in alphabetical order.
   
      ![](img/ex2/widg2_pc10.png)
        
-17) Select a county and zoom to it by clicking **Zoom to County**.   The map should zoom to the county selected and highlight it in yellow.
+18) Select a county and zoom to it by clicking **Zoom to County**.   The map should zoom to the county selected and highlight it in yellow.
   
      ![](img/ex2/widg2_pc11.png)
        
-18) Try entering an invalid county name.  A trapped error message should appear.
+19) Try entering an invalid county name.  A trapped error message should appear.
  
      ![](img/ex2/widg2_pc12.png)
      
-19) Now let’s clean up the styling a little bit by adding the following to the **style.css** file.  Add the following syntax to the file.
+20) Now let’s clean up the styling a little bit by adding the following to the **style.css** file.  Add the following syntax to the file.
  
     ```
     #filterBlock{
@@ -233,7 +235,7 @@ ___
     }
     ```
  
-20) The change in the CSS should be as seen below.
+21) The change in the CSS should be as seen below.
  
     ![](img/ex2/widg2_pc13.png)
      
@@ -241,12 +243,12 @@ ___
     
     ![](img/ex2/widg2_pc14.png)  
      
-21)	Finally, to deploy this widget for use with an app place the entire folder in **\\\client\stemapp\widgets**
+22)	Finally, to deploy this widget for use with an app place the entire folder in **\\\client\stemapp\widgets**
 
-22)	Before the changes take effect you will need to restart your node session. To close your node session, close the startup.bat file and start a new node session by opening the startup.bat file.
+23)	Before the changes take effect you will need to restart your node session. To close your node session, close the startup.bat file and start a new node session by opening the startup.bat file.
 
-23)	Once you’ve started a new node session, add a new widget and the new widget should appear in the list of available widgets.
+24)	Once you’ve started a new node session, add a new widget and the new widget should appear in the list of available widgets.
 
      ![](img/ex2/widg2_pc15.png)
      
-24)	That’s it!  If you have some time remaining play with modifying the widget.  Look into the ESRI libraries contained in the **widget.js** file.  Guides on this can be found on the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/3/jsapi/) website.
+25)	That’s it!  If you have some time remaining play with modifying the widget.  Look into the ESRI libraries contained in the **widget.js** file.  Guides on this can be found on the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/3/jsapi/) website.
