@@ -1,7 +1,7 @@
 # Custom Widget #2 - Zoom to Minnesota County
 ___
 
-1) Start by going through steps #1 to #13 in **The Terrible Widget** except call it the widget **CountyWidget**.  Select a different Icon as well.
+1) Start by going through steps #1 to #13 in **The Terrible Widget** except change every reference of **TerribleWidget** to  **CountyWidget**.  Select a different Icon as well.
 
 2) Add AGO map to the sample config.  This is done by navigating to **\\\client\stemapp\sample-configs**. Open the **config-demo.json** file and go to **map -> itemId** and change the Web Map ID to 
 
