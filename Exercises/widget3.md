@@ -25,7 +25,7 @@ ___
 	</div>
     ```
 
-3) The next couple of steps will involve editing the **widget.js** file.  Start by adding the dojo charting libraries.
+3) The rest of the steps will involve editing the existing **widget.js** file.  Start by adding the dojo charting libraries.
 
     ```
 	'dojox/charting/Chart', 
@@ -44,7 +44,7 @@ ___
 	
 	![](img/ex3/widg3_pc2.png)
     
-5) The next steps will all involve editing the **widget.js** javascript file.  Start by adding these two global variables near the top of the file.
+5) Add these two global variables near the top of the file.
 
     ```
 	_chartCounty:null,
