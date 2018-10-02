@@ -251,4 +251,4 @@ ___
 
      ![](img/ex2/widg2_pc15.png)
      
-25)	That’s it!  If you have some time remaining play with modifying the widget.  Look into the ESRI libraries contained in the **widget.js** file.  Guides on this can be found on the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/3/jsapi/) website.
+25)	That’s it!  If you have some time remaining try the final exercise that adds charts to this widget.
