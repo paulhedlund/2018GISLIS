@@ -35,7 +35,7 @@ ___
 
     ![](img/ex1/widg1_pc4.png)        ![](img/ex1/widg1_pc5.png)   
 
-10)	Add the widget information to the app config JSON file.  This is done by navigating to **\\\client\stemapp\sample -configs\config-demo.json** in the Web Appbuilder directory.  Find widgetPool -> widgets and add the following JSON to the end of it.  Make sure all required commas exist to insure proper JSON format.
+10)	Add the widget information to the app config JSON file.  This is done by navigating to **C:\WebAppBuilderForArcGIS\client\stemapp\sample -configs\config-demo.json** in the Web Appbuilder directory.  Find widgetPool -> widgets and add the following JSON to the end of it.  Make sure all required commas exist to insure proper JSON format.
 
     ```
     {
@@ -71,7 +71,7 @@ ___
 
     ![](img/ex1/widg1_pc9.png)
     
-17)	Next let’s make the text configurable.  **\\\client\stemapp\widgets\samplewidgets\TerribleWidget\config.json**
+17)	Next let’s make the text configurable.  **C:\WebAppBuilderForArcGIS\client\stemapp\widgets\samplewidgets\TerribleWidget\config.json**
 
 18)	Add the following text to make the tool configurable.
 
@@ -97,7 +97,7 @@ ___
 
     ![](img/ex1/widg1_pc16.png)
     
-22)	Finally, to deploy this widget for use with an app place the entire folder in **\\\client\stemapp\widgets**
+22)	Finally, to deploy this widget for use with an app place the entire folder in **C:\WebAppBuilderForArcGIS\client\stemapp\widgets**
 
 23)	Before the changes take effect you will need to restart your node session. To close your node session, close the startup.bat file and start a new node session by opening the startup.bat file.
 
