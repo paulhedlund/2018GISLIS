@@ -3,7 +3,7 @@ ___
 
 1) Start by going through steps #1 to #13 in **The Terrible Widget** except change every reference of **TerribleWidget** to  **CountyWidget**.  Select a different Icon as well.
 
-2) Add ArcGIS Online map to the sample config.  This is done by navigating to **\\\client\stemapp\sample-configs**. Open the **config-demo.json** file and go to **map -> itemId** and change the Web Map ID to 
+2) Add ArcGIS Online map to the sample config.  This is done by navigating to **C:\WebAppBuilderForArcGIS\client\stemapp\sample-configs**. Open the **config-demo.json** file and go to **map -> itemId** and change the Web Map ID to 
 
     ```
     3da9f66755d446cdab60fbf835e3bdc7
@@ -243,7 +243,7 @@ ___
     
     ![](img/ex2/widg2_pc14.png)  
      
-22)	Finally, to deploy this widget for use with an app place the entire folder in **\\\client\stemapp\widgets**
+22)	Finally, to deploy this widget for use with an app place the entire folder in **C:\WebAppBuilderForArcGIS\client\client\stemapp\widgets**
 
 23)	Before the changes take effect you will need to restart your node session. To close your node session, close the startup.bat file and start a new node session by opening the startup.bat file.
 
