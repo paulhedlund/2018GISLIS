@@ -13,7 +13,7 @@ ___
 
     ![](img/ex1/widg1_pc2.png)
     
-5)	Un-comment the following: 
+5)	Update the following declartions: 
     - **baseClass**:  change **jimu-widget-customwidget** to **jimu-widget-terriblewidget**. Note that JavaScript is case-                     sensitive. Also, add a comma at the end of this line.
     - **name:** un-comment this line and change to **‘Terrible Widget’**
    
