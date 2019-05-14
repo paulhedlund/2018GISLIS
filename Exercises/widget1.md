@@ -45,7 +45,7 @@ ___
     ```
     ![](img/ex1/widg1_pc6.png)
     
-11)	At this point let’s test the widget to see your progress.  Test the widget via this path **http://[your host name:3344]/webappviewer/?config=sample-configs/config-demo.json**  Make sure you started your **startup.bat** file first.
+11)	At this point let’s test the widget to see your progress.  Test the widget via this path **http://{your host name:3344}/webappviewer/?config=sample-configs/config-demo.json**  Make sure you started your **startup.bat** file first.  Ask instructors if your not sure on the host name.
 
 12)	In the viewer, you should see a test button with your icon. Click on that button to verify your widget appears with the correct HTML.
 
