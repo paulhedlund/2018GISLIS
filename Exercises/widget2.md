@@ -6,7 +6,7 @@ ___
 2) Add ArcGIS Online map to the sample config.  This is done by navigating to **\\\client\stemapp\sample-configs**. Open the **config-demo.json** file and go to **map -> itemId** and change the Web Map ID to 
 
     ```
-    daeb9571f666417ea43e6981788e41d3
+    3da9f66755d446cdab60fbf835e3bdc7
     ```
 
     ![](img/ex2/widg2_pc31.png)
