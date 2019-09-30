@@ -9,7 +9,7 @@ ___
     f52b53780bde41e0b8e6c695f64199e4
     ```
 
-    ![](img/ex2/widg2_pc31.png)
+    ![](img/ex2/widg2_pc31_1.png)
 
 3) This widget will not require some template files.  Therefore, remove the **config.json** file and **nls** folder.
 
