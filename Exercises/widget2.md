@@ -17,7 +17,7 @@ ___
 
 4) Edit the **Manifest.json** file to not include some properties.  Have the parameters match what is seen below except use your own name.
 
-    ![](img/ex2/widg2_pc40.png)
+    ![](img/ex2/widg2_pc40_1.png)
     
 5) This widget will require some HTML syntax containing some DOJO/DIJIT widgets. First, remove any existing text in the **widget.html** file.  Then, copy the text below. 
 
