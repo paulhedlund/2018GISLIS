@@ -97,7 +97,7 @@ ___
         //Query the counties
         var item = "NAME";
         var queryTask = new QueryTask
-        ("https://services9.arcgis.com/5HUanxSG9RgDUEyy/arcgis/rest/services/MNcounties_WS2018_(1)/FeatureServer/0"); //service
+        ("https://services.arcgis.com/8df8p0NlLFEShl0r/arcgis/rest/services/MN_Counties_New/FeatureServer/0"); //service
         var query = new Query();
         query.where = "1=1"; //query to get all counties
         query.returnGeometry = false;
@@ -138,7 +138,7 @@ ___
     //Function to zoom to county
     _ZoomCounty: function () {
         //Query the selected county
-        var queryTask = new QueryTask("https://services9.arcgis.com/5HUanxSG9RgDUEyy/arcgis/rest/services/MNcounties_WS2018_(1)/FeatureServer/0"); //service
+        var queryTask = new QueryTask("https://services.arcgis.com/8df8p0NlLFEShl0r/arcgis/rest/services/MN_Counties_New/FeatureServer/0"); //service
         var query = new Query();
         query.where = "NAME = '" + registry.byId("MNcountylist").displayedValue + "'";	query.returnGeometry = true;
         query.outFields = ["NAME"];
