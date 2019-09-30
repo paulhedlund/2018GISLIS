@@ -95,7 +95,7 @@ ___
 			return;
 		}
 
-		var queryTask = new QueryTask("https://services9.arcgis.com/5HUanxSG9RgDUEyy/arcgis/rest/services/MNcounties_WS2018_(1)/FeatureServer/0");
+		var queryTask = new QueryTask("https://services.arcgis.com/8df8p0NlLFEShl0r/arcgis/rest/services/MN_Counties_New/FeatureServer/0");
 		var queryPrj = new Query();
 		queryPrj.where = "NAME = '" + registry.byId("MNcountylist").displayedValue + "'";	
 		queryPrj.returnGeometry = false;
