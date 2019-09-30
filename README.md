@@ -1,4 +1,4 @@
-# Web AppBuilder for ArcGIS: Knowing Your Options - Spring Workshop
+# Web AppBuilder for ArcGIS: Knowing Your Options - GIS/LIS 2019
 ___
 
 ## Coding Exercises ##
