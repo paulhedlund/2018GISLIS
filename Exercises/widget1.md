@@ -35,7 +35,7 @@ ___
 
     ![](img/ex1/widg1_pc4.png)        ![](img/ex1/widg1_pc5.png)   
 
-10)	Add the widget information to the app config JSON file.  This is done by navigating to **C:\WebAppBuilderForArcGIS\client\stemapp\sample -configs\config-demo.json** in the Web Appbuilder directory.  Find widgetPool -> widgets and add the following JSON to the end of it.  Make sure all required commas exist to insure proper JSON format.  You are welcome to remove the other sample widgets if desired from the JSON file.  If you get an error use this JSON validator to debug the error. [jsonlint.com](www.jsonlint.com)
+10)	Add the widget information to the app config JSON file.  This is done by navigating to **C:\WebAppBuilderForArcGIS\client\stemapp\sample -configs\config-demo.json** in the Web Appbuilder directory.  Find widgetPool -> widgets and add the following JSON to the end of it.  Make sure all required commas exist to insure proper JSON format.  You are welcome to remove the other sample widgets if desired from the JSON file.  If you get an error use this JSON validator to debug the error. www.jsonlint.com
 
     ```
     {
