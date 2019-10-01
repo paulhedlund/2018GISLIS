@@ -81,7 +81,7 @@ ___
     }
     ```
     
-19)	Open **Widget.html** file again and modify as seen here. 
+19)	Open **Widget.html** file again and replace the existing syntax with the text seen here. 
 
     ```
     <div>
