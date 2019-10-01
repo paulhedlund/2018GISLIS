@@ -99,7 +99,7 @@ ___
     
 22)	Finally, to deploy this widget for use with an app place the entire folder in **C:\WebAppBuilderForArcGIS\client\stemapp\widgets**
 
-23)	Before the changes take effect you will need to restart your node session. To close your node session, close the startup.bat file and start a new node session by opening the startup.bat file.
+23)	Before the changes take effect it is best to restart your node session. To close your node session, close the startup.bat file and start a new node session by opening the startup.bat file again.
 
 24)	Once you’ve started a new node session, add a new widget and the new widget should appear in the list of available widgets.
 
