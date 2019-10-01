@@ -93,7 +93,7 @@ ___
 
     ![](img/ex1/widg1_pc10.png)
     
-21)	Edit the **Manifest.json** file.  The name should match the name of your widget folder.  You can change the **author** and **description**.  Also, change the properties settings as seen below.
+21)	Edit the **Manifest.json** file.  The name parameter must match the name of your widget folder.  You can also change the **author** and **description**.  Change the rest of the settings as seen below.
 
     ![](img/ex1/widg1_pc16_1.png)
     
